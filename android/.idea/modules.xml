@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/otrixcommerce.iml" filepath="$PROJECT_DIR$/.idea/modules/otrixcommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/otrixcommerce.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/otrixcommerce.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/otrixcommerce.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/otrixcommerce.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/otrixcommerce.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/otrixcommerce.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/otrixcommerce.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/otrixcommerce.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2059424710/otrixcommerce.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/2059424710/otrixcommerce.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2059424710/otrixcommerce.react-native-community_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2059424710/otrixcommerce.react-native-community_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2059424710/otrixcommerce.react-native-community_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2059424710/otrixcommerce.react-native-community_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2059424710/otrixcommerce.react-native-community_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2059424710/otrixcommerce.react-native-community_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/698256231/otrixcommerce.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/698256231/otrixcommerce.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/698256231/otrixcommerce.react-native-community_netinfo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/698256231/otrixcommerce.react-native-community_netinfo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/698256231/otrixcommerce.react-native-community_netinfo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/698256231/otrixcommerce.react-native-community_netinfo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/698256231/otrixcommerce.react-native-community_netinfo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/698256231/otrixcommerce.react-native-community_netinfo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1812553596/otrixcommerce.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/1812553596/otrixcommerce.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1812553596/otrixcommerce.react-native-fast-image.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1812553596/otrixcommerce.react-native-fast-image.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1812553596/otrixcommerce.react-native-fast-image.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1812553596/otrixcommerce.react-native-fast-image.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1812553596/otrixcommerce.react-native-fast-image.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1812553596/otrixcommerce.react-native-fast-image.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1299828212/otrixcommerce.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1299828212/otrixcommerce.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1299828212/otrixcommerce.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1299828212/otrixcommerce.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1299828212/otrixcommerce.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1299828212/otrixcommerce.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1299828212/otrixcommerce.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1299828212/otrixcommerce.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-378236526/otrixcommerce.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-378236526/otrixcommerce.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-378236526/otrixcommerce.react-native-image-picker.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-378236526/otrixcommerce.react-native-image-picker.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-378236526/otrixcommerce.react-native-image-picker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-378236526/otrixcommerce.react-native-image-picker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-378236526/otrixcommerce.react-native-image-picker.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-378236526/otrixcommerce.react-native-image-picker.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1628341542/otrixcommerce.react-native-in-app-review.iml" filepath="$PROJECT_DIR$/.idea/modules/-1628341542/otrixcommerce.react-native-in-app-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1628341542/otrixcommerce.react-native-in-app-review.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1628341542/otrixcommerce.react-native-in-app-review.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1628341542/otrixcommerce.react-native-in-app-review.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1628341542/otrixcommerce.react-native-in-app-review.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1628341542/otrixcommerce.react-native-in-app-review.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1628341542/otrixcommerce.react-native-in-app-review.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1919779334/otrixcommerce.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1919779334/otrixcommerce.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1919779334/otrixcommerce.react-native-linear-gradient.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1919779334/otrixcommerce.react-native-linear-gradient.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1919779334/otrixcommerce.react-native-linear-gradient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1919779334/otrixcommerce.react-native-linear-gradient.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1919779334/otrixcommerce.react-native-linear-gradient.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1919779334/otrixcommerce.react-native-linear-gradient.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-904113279/otrixcommerce.react-native-masked-view_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-904113279/otrixcommerce.react-native-masked-view_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-904113279/otrixcommerce.react-native-masked-view_masked-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-904113279/otrixcommerce.react-native-masked-view_masked-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-904113279/otrixcommerce.react-native-masked-view_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-904113279/otrixcommerce.react-native-masked-view_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-904113279/otrixcommerce.react-native-masked-view_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-904113279/otrixcommerce.react-native-masked-view_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1332497614/otrixcommerce.react-native-rate.iml" filepath="$PROJECT_DIR$/.idea/modules/-1332497614/otrixcommerce.react-native-rate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1332497614/otrixcommerce.react-native-rate.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1332497614/otrixcommerce.react-native-rate.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1332497614/otrixcommerce.react-native-rate.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1332497614/otrixcommerce.react-native-rate.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1332497614/otrixcommerce.react-native-rate.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1332497614/otrixcommerce.react-native-rate.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-49202851/otrixcommerce.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-49202851/otrixcommerce.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-49202851/otrixcommerce.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-49202851/otrixcommerce.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-49202851/otrixcommerce.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-49202851/otrixcommerce.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-49202851/otrixcommerce.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-49202851/otrixcommerce.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1661352373/otrixcommerce.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1661352373/otrixcommerce.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1661352373/otrixcommerce.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1661352373/otrixcommerce.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1661352373/otrixcommerce.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1661352373/otrixcommerce.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1661352373/otrixcommerce.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1661352373/otrixcommerce.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1041432461/otrixcommerce.react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/1041432461/otrixcommerce.react-native-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1041432461/otrixcommerce.react-native-share.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1041432461/otrixcommerce.react-native-share.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1041432461/otrixcommerce.react-native-share.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1041432461/otrixcommerce.react-native-share.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1041432461/otrixcommerce.react-native-share.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1041432461/otrixcommerce.react-native-share.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1685427346/otrixcommerce.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1685427346/otrixcommerce.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1685427346/otrixcommerce.react-native-svg.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1685427346/otrixcommerce.react-native-svg.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1685427346/otrixcommerce.react-native-svg.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1685427346/otrixcommerce.react-native-svg.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1685427346/otrixcommerce.react-native-svg.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1685427346/otrixcommerce.react-native-svg.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1247030882/otrixcommerce.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1247030882/otrixcommerce.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1247030882/otrixcommerce.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1247030882/otrixcommerce.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1247030882/otrixcommerce.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1247030882/otrixcommerce.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1247030882/otrixcommerce.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1247030882/otrixcommerce.react-native-vector-icons.unitTest.iml" />
+    </modules>
+  </component>
+</project>

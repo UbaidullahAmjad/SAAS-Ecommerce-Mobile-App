@@ -1,0 +1,6 @@
+module Pods_otrixcommerce_otrixcommerceTests {
+  umbrella header "Pods-otrixcommerce-otrixcommerceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
