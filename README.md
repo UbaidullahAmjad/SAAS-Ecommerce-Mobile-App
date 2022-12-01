@@ -1,5 +1,5 @@
 # Introduction
-This is a fully functional, robust, and responsive Mobile app which will be able to manage all the eCommerce-related functionalities and crispy design with the usage of cutting-edge to-mark technologies.
+This is a fully functional, robust, and responsive Mobile app which will be able to manage all the eCommerce-related functionalities and crispy design with the usage of cutting-edge up to mark technologies.
 # Country:
 Germany
 # Industry
