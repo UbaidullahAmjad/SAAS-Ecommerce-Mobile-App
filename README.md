@@ -5,14 +5,12 @@ Germany
 # Industry
 Food Chain
 # Completion Time
-1 Year
+1 Month
 # Team Size
-6
+3
 # Tech Stack
-- React JS
 - React Native
 - Laravel
-- MySQL
 - Selenium
 - Jmeter
 - Postman
